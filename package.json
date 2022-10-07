@@ -1,0 +1,29 @@
+{
+  "name": "@wyze/prettier-tailwind-trivago-compat",
+  "version": "0.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "test": "prettier --check index.js"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.3.0",
+    "prettier-plugin-tailwindcss": "^0.1.0"
+  },
+  "devDependencies": {
+    "postcss": "8.4.17",
+    "prettier": "2.7.1",
+    "tailwindcss": "3.1.8"
+  },
+  "peerDependencies": {
+    "prettier": "^2.0.0",
+    "tailwind": "^2.0.0 || ^3.0.0"
+  },
+  "prettier": "./index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
