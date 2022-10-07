@@ -1,4 +1,4 @@
-# [neilkistner.com](https://neilkistner.com) &middot; [![Build Status][actions-image]][actions-url] [![npm][npm-image]][npm-url]
+# @wyze/prettier-tailwind-trivago-compat &middot; [![Build Status][actions-image]][actions-url] [![npm][npm-image]][npm-url]
 
 > A [Prettier](https://prettier.io) configuration to handle compatability between [tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss) and [@trivago/sort-imports](https://github.com/trivago/prettier-plugin-sort-imports) plugins. See this [issue](https://github.com/tailwindlabs/prettier-plugin-tailwindcss/issues/31).
 
